@@ -20,7 +20,7 @@ display_post_summary: '0'
 post_icon: ''
 hide_post_date: '0'
 hide_post_taxonomy: '0'
-hide_git_sync_repo_link: '0'
+hide_git_sync_repo_link: false
 git_sync_repo_link: ''
 ---
 
