@@ -1,5 +1,6 @@
 ---
 title: 'So What is Mindfulness'
+media_order: bemindful.jpg
 date: '07:37 27-08-2018'
 taxonomy:
     tag:
