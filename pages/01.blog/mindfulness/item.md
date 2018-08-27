@@ -6,7 +6,6 @@ taxonomy:
         - Mindfulness
 ---
 
-
 A few conversations recently have tripped up with some confusion over Mindfulness and Meditation. Are they the same thing? Both words are often used interchangably. I'll try and lay out the differences here.
 
 ### Mindfulness
