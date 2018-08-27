@@ -7,17 +7,21 @@ taxonomy:
         - Mindfulness
 content:
     items: '@self.children'
-    limit: 5
+    limit: '5'
     order:
         by: date
         dir: desc
     pagination: '1'
-hero_scroll: false
-show_sidebar: true
-display_post_summary: false
-hide_post_date: false
-hide_post_taxonomy: false
-hide_git_sync_repo_link: false
+hero_classes: ''
+hero_image: ''
+hero_scroll: '0'
+show_sidebar: '1'
+display_post_summary: '0'
+post_icon: ''
+hide_post_date: '0'
+hide_post_taxonomy: '0'
+hide_git_sync_repo_link: '0'
+git_sync_repo_link: ''
 ---
 
 The word Mindfulness is pretty much around us constantly and going by the numerous Youtube clips and podcasts seemingly has the magical properties that will cure a headache whilst bringing the world to peace. Its a skill utilised from by Monks through to the Military. My understanding is a little more down to earth and I'll share a few of my favourite explanations I've encountered.
