@@ -1,6 +1,22 @@
 ---
 title: 'So What is Mindfulness'
 date: '07:37 27-08-2018'
+taxonomy:
+    tag:
+        - Mindfulness
+content:
+    items: '@self.children'
+    limit: 5
+    order:
+        by: date
+        dir: desc
+    pagination: '1'
+hero_scroll: false
+show_sidebar: true
+display_post_summary: false
+hide_post_date: false
+hide_post_taxonomy: false
+hide_git_sync_repo_link: false
 ---
 
 The word Mindfulness is pretty much around us constantly and going by the numerous Youtube clips and podcasts seemingly has the magical properties that will cure a headache whilst bringing the world to peace. Its a skill utilised from by Monks through to the Military. My understanding is a little more down to earth and I'll share a few of my favourite explanations I've encountered.
