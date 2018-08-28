@@ -1,5 +1,9 @@
 ---
 title: 'Marcus Aurelius Meditations 17'
+taxonomy:
+    tag:
+        - Quote
+        - 'Marcus Aurelius'
 ---
 
 **Human Life**
