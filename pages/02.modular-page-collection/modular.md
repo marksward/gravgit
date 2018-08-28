@@ -1,11 +1,10 @@
 ---
-title: Modular Page (Collection)
+title: 'Modular Page (Collection)'
 published: false
 onpage_menu: false
-body_classes: "modular header-image fullwidth"
-
+body_classes: 'modular header-image fullwidth'
 content:
-    items: @self.modular
+    items: '@self.modular'
     order:
         by: default
         dir: asc
@@ -15,3 +14,4 @@ content:
             - _callout
             - _features
 ---
+
