@@ -1,5 +1,5 @@
 ---
-title: 'Modular Page'
+title: Quotes
 published: true
 body_classes: modular
 onpage_menu: false
