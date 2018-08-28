@@ -10,3 +10,4 @@ page-inject:
 Selection of Stoic and other philosophical quotes
  
 [plugin:content-inject](/modular-quotes/_marcus-17)  
+[plugin:content-inject](/modular-quotes/_epictetus-first-say)  
