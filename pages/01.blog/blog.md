@@ -24,4 +24,4 @@ feed:
 pagination: true
 ---
 
-## Create, Publish, Share and Collaborate
+## Practical wisdom, justice, courage and temperance
