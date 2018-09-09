@@ -5,6 +5,9 @@ date: '07:37 27-08-2018'
 taxonomy:
     tag:
         - Mindfulness
+hide_from_post_list: false
+continue_link: true
+hide_git_sync_repo_link: false
 content:
     items: '@self.children'
     limit: '5'
@@ -20,11 +23,10 @@ display_post_summary: '0'
 post_icon: ''
 hide_post_date: '0'
 hide_post_taxonomy: '0'
-hide_git_sync_repo_link: false
 git_sync_repo_link: ''
 ---
 
-The word Mindfulness is pretty much around us constantly and going by the numerous Youtube clips and podcasts seemingly has the magical properties that will cure a headache whilst bringing the world to peace. Its a skill utilised from by Monks through to the Military. My understanding is a little more down to earth and I'll share a few of my favourite explanations I've encountered.
+The word Mindfulness is pretty much around us constantly and going by the numerous Youtube clips and podcasts seemingly has the magical properties that will cure a headache whilst bringing the world to peace. Its a skill utilised by Monks through to the Military. My understanding is a little more down to earth and I'll share a few of my favourite explanations I've encountered.
 
 My working description of Mindfulness is simply 'an awareness'. I also like to borrow the 'non-judgementally' from John Kabat-Zinn (below). That is an awareness of how your interpreting things and where your reactions and responses are coming from. Its a phenominal skill that allows you to create a pause between hearing or seeing something and reacting habitually. Call it the skill to deal with the world with considered actions not reactions.
 
